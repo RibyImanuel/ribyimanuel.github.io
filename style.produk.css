@@ -1,0 +1,50 @@
+.pen1 {
+  background: url(assets/image/pen1.png);
+  background-size: 100%;
+  background-position: center;
+}
+.pen2 {
+  background: url(assets/image/pen2.png);
+  background-size: 100%;
+  background-position: center;
+}
+.pen3 {
+  background: url(assets/image/pen3-blue.png);
+  background-size: 120%;
+  background-position-y: center;
+  background-position-x: -0.3rem;
+}
+.pen4 {
+  background: url(assets/image/pen4.png);
+  background-size: 100%;
+  background-position-y: 2.2rem;
+  background-position-x: 1rem;
+}
+.book1 {
+  background: url(assets/image/book1.png);
+  background-size: 100%;
+  background-position-x: center;
+  background-position-y: 1.45rem;
+}
+.lain1 {
+  background: url(assets/image/penggaris.png);
+  background-size: 100%;
+  background-position-x: center;
+  background-position-y: 2rem;
+}
+.lain2 {
+  background: url(assets/image/penggaris2-01.png);
+  background-size: 100%;
+  background-position: center;
+}
+.lain3 {
+  background: url(assets/image/lakban-01.png);
+  background-size: 100%;
+  background-position: center;
+}
+.lain4 {
+  background: url(assets/image/tipex-01.png);
+  background-size: 100%;
+  background-position: center;
+}
+

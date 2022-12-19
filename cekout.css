@@ -1,0 +1,119 @@
+.cekout {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: url(/assets/image/pngwing2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.tittle {
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.note {
+  width: 100%;
+  text-align: center;
+  font-size: 1em;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+}
+.note span{
+  text-transform: capitalize;
+  font-size: .8em;
+}
+.cekout-box {
+  display: flex;
+  flex-direction: column;
+  min-width: 40rem;
+  margin-top: 3rem;
+  padding: 1rem;
+  gap: 1rem;
+  background-color: rgba(0, 0, 0, 0.349);
+}
+.produk-box {
+  display: flex;
+  flex-direction: row;
+  background: rgba(255, 255, 255, 0.166);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.box-img {
+  background: gray;
+}
+.box-img img {
+  width: 5rem;
+  height: 5rem;
+}
+.deskripsi-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 0.5rem;
+  height: 5rem;
+}
+.name-produk {
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.harga {
+  font-size: 1.2em;
+  font-weight: 600;
+  line-height: 0.5;
+  text-transform: capitalize;
+}
+.input-jumlah {
+  width: 3rem;
+  height: 2rem;
+  margin-right: 1rem;
+  background: rgba(255, 255, 255, 0.422);
+}
+
+.pesan {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+.total-harga {
+  width: 100%;
+}
+.btn-total {
+  padding: 0.5rem 1.5rem;
+  border-radius: 2rem;
+  background: none;
+}
+.total-harga {
+  font-weight: 900;
+  font-size: 1.2em;
+  line-height: 0;
+}
+.btn-pesan:hover {
+  background: rgba(128, 128, 128, 0.748);
+}
+.btn-bukti {
+  display: flex;
+  flex-direction: row;
+  width: 10rem;
+  border: 2px solid black;
+  margin-left: 1rem;
+  padding: 0.5rem 1.5rem;
+  text-decoration: none;
+  color: black;
+  border-radius: 2rem;
+  background: none;
+}
+.btn-bukti:hover{
+  color: black;
+  cursor: pointer;
+}

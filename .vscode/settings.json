@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp"
+  },
+  "livePreview.defaultPreviewPath": "c:\\Users\\manrc\\Desktop\\index_program\\html\\tugas_week_7\\index.html",
+  "liveServer.settings.port": 5501
+}
